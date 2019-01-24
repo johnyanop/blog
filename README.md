@@ -1,6 +1,6 @@
-## Welcome
+## Welcome to my app
 
-###Happy Merge
+### Happy Merge
 
 Happy merge is a fun and addictive number puzzle game. Whether you want to relax or want to exercise your mind, please spend your free time in a pleasant way! Via some simple operations, you will can resolve these problems and get 3 stars with open thinking and happy mood!
 
